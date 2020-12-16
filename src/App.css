@@ -1,0 +1,19 @@
+body{
+  background: #141414;
+  color: #ffffff;
+}
+
+.movie-app > .row{
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+
+::-webkit-scrollbar {
+  width: 0px;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+  background: #FF0000;
+  width: 50px;
+}
