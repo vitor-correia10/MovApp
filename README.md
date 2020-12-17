@@ -2,7 +2,7 @@
 
 An app to save the favorite movies.
 
-![MovApp image](images/MovApp.png)
+![MovApp image](images/MovApp.PNG)
 
 ## Technologies
 
